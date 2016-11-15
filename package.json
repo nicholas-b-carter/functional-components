@@ -1,6 +1,6 @@
 {
   "name": "functional-components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React component primitives inspired by Functional Programming and Algabraic Data Types",
   "main": "dist/index.js",
   "scripts": {
