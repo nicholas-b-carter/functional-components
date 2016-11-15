@@ -9,6 +9,7 @@
     "func-names": 0,
     "eol-last": 0,
     "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/jsx-no-bind": [ 2, {
       "ignoreRefs": false,
       "allowArrowFunctions": true,

@@ -29,24 +29,18 @@ import { Maybe } from 'functional-components';
 </Section>
 ```
 
+Experimental:
+
 Either:
 
 ```js
 <Either
   predicate={posts && posts.length > 0}
   just={<Posts posts={posts} />}
-  none={<NoPosts />}
+  nothing={<NoPosts />}
 />
 ```
 
-Future:
-
-Map:
-It's a common pattern to map over a list and create an element from each unique item in the list. From the Maybe example above:
-```js
-<Maybe predicate={posts && posts.length > 0}>
-  <Map items={posts}>
-    <Post />
-  </Map>
-</Maybe>
-```
+# Coming soon
+- IO
+- Future
