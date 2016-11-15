@@ -1,0 +1,26 @@
+{
+  "name": "functional-components",
+  "version": "0.0.0",
+  "description": "React component primitives inspired by Functional Programming and Algabraic Data Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCCollins/functional-components.git"
+  },
+  "keywords": [
+    "React",
+    "Components",
+    "ADTs",
+    "Functional",
+    "Programming"
+  ],
+  "author": "RyanCCollins <rccproduction@mac.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanCCollins/functional-components/issues"
+  },
+  "homepage": "https://github.com/RyanCCollins/functional-components#readme"
+}
