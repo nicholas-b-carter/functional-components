@@ -1,4 +1,4 @@
 # Functional Components
 React component primitives inspired by Functional Programming and Algebraic Data Types
 
-NOTE: This is an extremely unstable package and will be for some time.  Please use with caution until a time when a proper release has been published.
+NOTE: This project was a great idea, but I no longer have the time to contribute to it.  I am using the Maybe component in some of my work.  Hopefully, I will get a chance to come back to it at a later time.
